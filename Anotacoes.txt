@@ -10,4 +10,6 @@ Estados do git
 - Untracked, Unmodified, Modified e Staged  e para verificar o estado em que se encontra o repositório basta usar o comando (git status) e para adicionar alterações ao repositório use o (git add)
 
 E para verficar alterações feitas no repositório 
-Basta usar o comando (git diff)
+Basta usar o comando (git diff) para salvar as alterações e o estado que em o projeto se encontra use o (git commit -m )
+
+HXH

@@ -1,4 +1,4 @@
-Como clonar um repositório remoto para um repositório local 
+x'Como clonar um repositório remoto para um repositório local 
 
 - Abra o GitHub no navegador e abra a pagina do repositório que desejar clonar, clique no botão ver e copie o https, abre o cmd entra na pasta desejada usando (cd "caminho da pasta") quando estiver na pasta usa o (git clone "link https") verifique a pasta e o repositório estará lá 
 
@@ -12,4 +12,5 @@ Estados do git
 E para verficar alterações feitas no repositório 
 Basta usar o comando (git diff) para salvar as alterações e o estado que em o projeto se encontra use o (git commit -m )
 
-aaaaaaaaaaaaaa
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
